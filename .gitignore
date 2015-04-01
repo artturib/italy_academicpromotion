@@ -18,7 +18,7 @@ $RECYCLE.BIN/
 *.lnk
 
 # IPython checkpoints
-.ipynb_checkpoints/*
+.ipynb_checkpoints/
 
 # =========================
 # Operating System Files
