@@ -20,6 +20,9 @@ $RECYCLE.BIN/
 # IPython checkpoints
 .ipynb_checkpoints/
 
+# python compiled files?
+*.pyc
+
 # =========================
 # Operating System Files
 # =========================
